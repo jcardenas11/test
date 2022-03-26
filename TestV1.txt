@@ -1,3 +1,5 @@
 Este es un archivo de pruebas !! Pero también para otras verificaciones
 
 Por otra parte, comprobar funcionamientos adecuados
+
+Que ocurrió ?
